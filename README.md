@@ -6,7 +6,4 @@
 - 😄 Pronouns: 
 - ⚡ Fun fact: I'm lazy but I love what I'm doing
 
-<!---
-vipracitti7/vipracitti7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
